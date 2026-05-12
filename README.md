@@ -18,7 +18,7 @@ data scientist in progress · full stack curious
 class Aboubacar:
     def __init__(self):
         self.role        = "Étudiant M1 Informatique"
-        self.university  = "Université d'Artois — Lens, France"
+        self.university  = "Université d'Artois - Lens, France"
         self.location    = "Hauts-de-France"
         self.languages   = ["Français", "Anglais", "Soussou"]
         self.searching   = "Alternance Data Science · Rentrée 2026"
@@ -85,7 +85,7 @@ Agile · Scrum
 
 [**Analyse des rendements agricoles mondiaux**](https://github.com/Aboubacar21/projet-sdd-rendements-agricoles)
 
-Étude Data Science pour la coopérative agricole InVivo. Impact des pesticides, du climat et de la géographie sur le rendement des cultures à travers 101 pays sur 1990–2013 (données FAO + World Data Bank).
+Étude Data Science pour la coopérative agricole InVivo. Impact des pesticides, du climat et de la géographie sur le rendement des cultures à travers 101 pays sur 1990-2013 (données FAO + World Data Bank).
 
 Pipeline complet : nettoyage, exploration, clustering K-means, régression linéaire, visualisations, recommandations business.
 
@@ -93,22 +93,10 @@ Pipeline complet : nettoyage, exploration, clustering K-means, régression liné
 
 <br>
 
-### Statistiques GitHub
-
-<div align="center">
-
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Aboubacar21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=d4ff3a&icon_color=d4ff3a&text_color=f4f1ea)
-
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aboubacar21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=d4ff3a&text_color=f4f1ea)
-
-</div>
-
-<br>
-
 ### Parcours
 
 ```
-2025 - 2026   Master 1 Informatique · parcours Data Science
+2025 - 2026   Master 1 Informatique ·
               Université d'Artois, Lens
 
 2025          Stage Full Stack chez Wezaart, Lille
@@ -122,6 +110,6 @@ Pipeline complet : nettoyage, exploration, clustering K-means, régression liné
 
 ### Ce que je cherche
 
-Je suis actuellement à la recherche d'une **alternance en Data Science** pour la rentrée 2026, idéalement dans la région **Hauts-de-France**. Mes domaines de prédilection : analyse de données business, modélisation prédictive, dashboarding.
+Je suis actuellement à la recherche d'une **alternance en Data Science** pour la rentrée 2026. Je privilégie les **Hauts-de-France** et l'**Île-de-France**, mais je reste ouvert à toute opportunité en région. Mes domaines de prédilection : analyse de données business, modélisation prédictive et dashboarding.
 
 Contactez-moi : [sidikiyattara07@gmail.com](mailto:sidikiyattara07@gmail.com) · [LinkedIn](https://www.linkedin.com/in/aboubacar-sidiki-yattara-943456239/)
