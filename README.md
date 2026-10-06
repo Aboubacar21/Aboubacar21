@@ -11,7 +11,8 @@ data science · intelligence artificielle · full stack
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aboubacar%20Sidiki%20Yattara-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aboubacar-sidiki-yattara-943456239/)
 [![Email](https://img.shields.io/badge/Email-sidikiyattara07%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sidikiyattara07@gmail.com)
-![Lens](https://img.shields.io/badge/Lens-Hauts--de--France-1fb5a3?style=flat-square)
+[![Portfolio](https://img.shields.io/badge/Portfolio-aboubacar21.github.io-1fb5a3?style=flat-square&logo=googlechrome&logoColor=white)](https://aboubacar21.github.io)
+![Lens](https://img.shields.io/badge/Lens-Hauts--de--France-1b2a41?style=flat-square)
 
 </div>
 
@@ -152,4 +153,4 @@ En dehors du code : sprinteur au **RC Lens Athlétisme** (niveau national N4 sur
 
 Un **stage en Data Science ou en Intelligence Artificielle** d'au moins **10 semaines, à partir de mars 2027**. Je privilégie les **Hauts-de-France** et l'**Île-de-France**, mais je reste ouvert à toute opportunité. Mes domaines de prédilection : analyse de données, machine learning et dashboarding.
 
-📫 [sidikiyattara07@gmail.com](mailto:sidikiyattara07@gmail.com) · [LinkedIn](https://www.linkedin.com/in/aboubacar-sidiki-yattara-943456239/)
+📫 [sidikiyattara07@gmail.com](mailto:sidikiyattara07@gmail.com) · 🌐 [Portfolio](https://aboubacar21.github.io) · [LinkedIn](https://www.linkedin.com/in/aboubacar-sidiki-yattara-943456239/)
