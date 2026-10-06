@@ -7,7 +7,7 @@ data science · intelligence artificielle · full stack
 
 **Étudiant en Master 1 Informatique, parcours Intelligence Artificielle, à l'Université d'Artois**
 
-🎯 **Je recherche un stage en Data Science / IA d'au moins 10 semaines, dès mars 2027**
+🎯 **Je recherche un stage en Data Science / IA de 2 à 6 mois, dès mars 2027**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aboubacar%20Sidiki%20Yattara-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aboubacar-sidiki-yattara-943456239/)
 [![Email](https://img.shields.io/badge/Email-sidikiyattara07%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sidikiyattara07@gmail.com)
@@ -27,7 +27,7 @@ class Aboubacar:
         self.university  = "Université d'Artois - Lens, France"
         self.location    = "Hauts-de-France"
         self.languages   = ["Français", "Soussou", "Anglais (B2)"]
-        self.searching   = "Stage Data Science / IA · 10 semaines min. · dès mars 2027"
+        self.searching   = "Stage Data Science / IA · 2 à 6 mois · dès mars 2027"
 
     def what_i_do(self):
         return [
@@ -151,6 +151,6 @@ En dehors du code : sprinteur au **RC Lens Athlétisme** (niveau national N4 sur
 
 ### Ce que je cherche
 
-Un **stage en Data Science ou en Intelligence Artificielle** d'au moins **10 semaines, à partir de mars 2027**. Je privilégie les **Hauts-de-France** et l'**Île-de-France**, mais je reste ouvert à toute opportunité. Mes domaines de prédilection : analyse de données, machine learning et dashboarding.
+Un **stage en Data Science ou en Intelligence Artificielle** de **2 à 6 mois, à partir de mars 2027**. Je privilégie les **Hauts-de-France** et l'**Île-de-France**, mais je reste ouvert à toute opportunité. Mes domaines de prédilection : analyse de données, machine learning et dashboarding.
 
 📫 [sidikiyattara07@gmail.com](mailto:sidikiyattara07@gmail.com) · 🌐 [Portfolio](https://aboubacar21.github.io) · [LinkedIn](https://www.linkedin.com/in/aboubacar-sidiki-yattara-943456239/)
